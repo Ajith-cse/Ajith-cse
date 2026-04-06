@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ajith 👋
 
-<!--
-**Ajith-cse/Ajith-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year CSE Student  
+💻 Full Stack & ML Developer  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Flutter
+- FastAPI
+- Machine Learning
+- MongoDB
+- Full Stack Developing
+- Vibe coding
+- Prompt Enginnering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+- Hybrid IDS for Autonomous Vehicles
+- To Do list 
+
+## 📫 Contact
+- Email: ajith.webdev01@gmail.com
+- Email: ajithsri9342@gmail.com
